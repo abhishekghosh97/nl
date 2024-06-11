@@ -1,0 +1,2 @@
+# nl
+scoreboard display
